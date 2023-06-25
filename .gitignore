@@ -1,0 +1,6 @@
+asserts/
+output/
+.idea/
+*/__pycache__/
+*.pyc
+*.mp4
